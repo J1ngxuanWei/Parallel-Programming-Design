@@ -1,2 +1,5 @@
 # Parallel-Programming-Design
-course assignments at Nankai university
+
+1
+
+### Completed in June 2024, in course Parallel-Programming-Design, at Nankai University
